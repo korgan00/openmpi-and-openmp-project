@@ -1,0 +1,8 @@
+﻿  main.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  Generando código
+  6 of 189 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ConcurrenteMPI_PracticaFinal.vcxproj -> C:\Users\Korgan\source\repos\ConcurrenteMPI_PracticaFinal\Release\ConcurrenteMPI_PracticaFinal.exe

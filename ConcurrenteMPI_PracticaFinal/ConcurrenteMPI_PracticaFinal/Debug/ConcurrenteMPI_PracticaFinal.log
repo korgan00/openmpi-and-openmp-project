@@ -1,0 +1,3 @@
+﻿  Convolution.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  ConcurrenteMPI_PracticaFinal.vcxproj -> C:\Users\Korgan\source\repos\ConcurrenteMPI_PracticaFinal\Debug\ConcurrenteMPI_PracticaFinal.exe
